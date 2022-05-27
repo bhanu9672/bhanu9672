@@ -1,8 +1,12 @@
 # 💫About Me :
 👋 Hi, I’m Bhanu Pratap Singh, PHP Developer.
+
 👀 I’m an interested freelancer in Web Development.
+
 🌱 I’m currently learning more about React and Node JS
+
 📫 How to reach me LinkedIn - @bhanu9672,
+
 Fun Fact: I spend almost 8 hours listening to songs every day. my main motto is learning while doing.
 
 ## 🌐Socials
