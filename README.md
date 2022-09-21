@@ -1,8 +1,6 @@
 # 💫About Me :
 👋 Hi, I’m Bhanu Pratap Singh, PHP Developer.
 
-🌱 I’m currently learning React Js...
-
 👀 I’m an interested freelancer in Web Development.
 
 🌱 I’m currently learning more about React and Node JS
