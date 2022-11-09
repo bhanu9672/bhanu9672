@@ -1,5 +1,5 @@
 # 💫About Me :
-👋 Hi, I’m Bhanu Pratap Singh, PHP Developer.
+👋 Hi, I’m Bhanu Pratap Singh, PHP Developer,Wordpress DeveVeloper,React JS Developer.
 
 👀 I’m an interested freelancer in Web Development.
 
