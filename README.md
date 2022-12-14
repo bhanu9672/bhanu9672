@@ -3,7 +3,7 @@
 
 👀 I’m an interested freelancer in Web Development.
 
-🌱 I’m currently learning more about React JS and Node JS
+🌱 I’m currently learning more about React JS and Next JS
 
 📫 How to reach me LinkedIn - @bhanu9672,
 
