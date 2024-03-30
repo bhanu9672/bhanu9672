@@ -8,7 +8,7 @@
 Fun Fact: I spend almost 8 hours listening to songs every day. My main motto is learning while doing.
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhanu9672) 
+[!(https://linkedin.com/in/https://www.linkedin.com/in/bhanu9672) 
 
 # 💻Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
