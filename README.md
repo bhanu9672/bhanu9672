@@ -1,13 +1,11 @@
 # 💫About Me :
-👋 Hi, I’m Bhanu Pratap Singh, PHP Developer,Wordpress DeveVeloper,React JS Developer.
-
-👀 I’m an interested freelancer in Web Development.
+👋 Hi, I’m Bhanu Pratap Singh, PHP Developer, WordPress Developer, and React JS Developer.
 
 🌱 I’m currently learning more about React JS and Next JS
 
 📫 How to reach me LinkedIn - @bhanu9672,
 
-Fun Fact: I spend almost 8 hours listening to songs every day. my main motto is learning while doing.
+Fun Fact: I spend almost 8 hours listening to songs every day. My main motto is learning while doing.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhanu9672) 
